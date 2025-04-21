@@ -14,10 +14,11 @@ From your terminal, use source .env to inject source added
 
 ## Account for private keys
 
-Use 
+Use below on your terminal
 ```shell
 cast wallet import 'nameOfYourKey' --interactive
 ``` 
+copy your private key to add to as `nameOfYouKey` above.
 
 ## Documentation
 
