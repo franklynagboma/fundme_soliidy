@@ -2,7 +2,7 @@
 
 - deploy to sepolia
 - deploy to sepolia and verify
-- deploy to anvil with local host, you can change this to your
+- deploy to anvil with local host, you can change this to yours
 
 ## env
 
@@ -14,7 +14,10 @@ From your terminal, use source .env to inject source added
 
 ## Account for private keys
 
-Use cast wallet import <nameOfKey> --interactive
+Use 
+```shell
+cast wallet import 'nameOfYourKey' --interactive
+``` 
 
 ## Documentation
 
